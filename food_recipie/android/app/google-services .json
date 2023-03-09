@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "207673746587",
+    "project_id": "recipieapp-34129",
+    "storage_bucket": "recipieapp-34129.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:207673746587:android:28888543b319005b1b923e",
+        "android_client_info": {
+          "package_name": "com.example.food_recipie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "207673746587-u1ng76nbabc5r95jv8e4bcdv5rn0ultd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.food_recipie",
+            "certificate_hash": "c81c99844cb9acdfbb1f84c18dba084a9135d4f5"
+          }
+        },
+        {
+          "client_id": "207673746587-b00mr68bv2f2244q8ai5mrrm2crksqhj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0k-qaD211CuoeLAIeR8XMHHUoI8qbTBM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "207673746587-b00mr68bv2f2244q8ai5mrrm2crksqhj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
